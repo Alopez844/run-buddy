@@ -71,7 +71,7 @@ footer {
     padding: 60px;
   }
   
-  /* Hero Style Start*/
+  /* start of hero styling */
   .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -266,4 +266,14 @@ footer {
 
 .contact-info a {
   color: #fce138;
+}
+
+.page-title {
+  color: #fce138;
+  display: inline-block;
+  border-bottom: 4px solid #fce138;
+  padding: 0 80px 15px 80px;
+  font-weight: normal;
+  font-size: 42px;
+  font-style: italic;
 }
